@@ -46,7 +46,7 @@ I'm on a perpetual journey of learning and discovery. Whether it's staying updat
 
 ## 📫 Get in Touch
 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/marion-kipsang-abb762148/)
+- **LinkedIn:** [kipsangmarion](https://www.linkedin.com/in/marion-kipsang-abb762148/)
 - **Email:** kipsangmarion@gmail.com
 
 Feel free to reach out if you want to collaborate, discuss exciting ideas, or just have a chat about anything related to technology, mathematics, or education! Let's build a better future together. ✨
