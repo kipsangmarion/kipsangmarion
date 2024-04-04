@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hi there! 👋 I'm Marion Kipsang
 
-I'm a final-year Mathematics and Computer Science student at Jomo Kenyatta University of Agriculture and Technology, passionate about the intersection of mathematics, computer science, and open-source technology. As a versatile software developer, data scientist, and aspiring AI enthusiast, I thrive on the challenges of crafting innovative solutions that make a positive impact.
+I'm a Mathematician and Computer Scientist passionate about the intersection of mathematics, computer science, and open-source technology. As a versatile software developer, data scientist, and aspiring AI enthusiast, I thrive on the challenges of crafting innovative solutions that make a positive impact.
 
 ## 🚀 What I Do
 
